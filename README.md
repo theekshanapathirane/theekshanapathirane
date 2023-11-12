@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **in ICET**
 
-- 👨‍💻 All of my projects at [astuteGG.com]<a href="https://astutegg.com/"></a>
+- 👨‍💻 All of my projects at <a href="https://astutegg.com/">SITE</a>
 
 - 📫 How to reach me **thiwankapathirane293@gmail.com**
 
