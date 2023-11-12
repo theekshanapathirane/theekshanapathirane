@@ -6,13 +6,10 @@
 
 - 🌱 I’m currently learning **in ICET**
 
-- 👨‍💻 All of my projects are available at [astuteGG.com](http://astutegg.com/)
-
-- 📝 I regularly write articles on [astuteGG.com](www.astuteGG.com)
+- 👨‍💻 All of my projects at [astuteGG.com](http://astutegg.com/)
 
 - 📫 How to reach me **thiwankapathirane293@gmail.com**
 
-- 📄 Know about my experiences [astuteGG.com]([www.astuteGG.com](http://astutegg.com/
 ))
 <h3 align="left">Connect with me:</h3>
 <p align="left">
